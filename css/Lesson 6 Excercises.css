@@ -1,0 +1,19 @@
+p {
+  text-align: center;
+  width: 300px;
+  font-family: Montserrat;
+  margin-bottom: 0px;
+  margin-top: 5px;
+}
+
+.model-text {
+  font-weight: bold;
+}
+
+.touchless-text {
+  text-decoration: underline;
+}
+
+.touchless-text:hover {
+  cursor: pointer;
+}
