@@ -1,0 +1,113 @@
+.firstname-input {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 6px;
+  border-color: grey;
+}
+
+.lastname-input {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 6px;
+  border-color: grey;
+}
+
+.email-input {
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 6px;
+  margin-top: 10px;
+  padding-right: 175px;
+  margin-bottom: 10px;
+}
+
+.signup-button {
+  background-color: rgb(105, 105, 249);
+  padding-left: 146px;
+  padding-right: 146px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 6px;
+  font-weight: bold;
+  color: white;
+  border: none;
+  background-color: 0.5s, opacty 0.5s;
+}
+
+.signup-button:hover {
+  background-color: rgb(72, 72, 250);
+}
+
+.signup-button:active {
+  opacity: 0.5;
+}
+
+.request-text {
+  font-family: arial;
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
+
+.pickup-input {
+  display: block;
+  background-color: rgb(228, 228, 228);
+  color: black;
+  padding-right: 175px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 7px;
+  border: none;
+}
+
+.destination-input {
+  display: block;
+  background-color: rgb(228, 228, 228);
+  padding-right: 175px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: none;
+}
+
+.request-button {
+  margin-top: 20px;
+  background-color: black;
+  color: white;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-right: 10px;
+  transition: opacity 0.7s;
+}
+
+.request-button:hover {
+  opacity: 0.8;
+}
+
+.request-button:active {
+  opacity: 0.4;
+}
+
+.schedule-button {
+  background-color: rgb(228, 228, 228);
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  transition: background-color 0.5s, color 0.5s;
+}
+
+.schedule-button:hover {
+  background-color: rgb(66, 66, 66);
+  color: white;
+}
+
+.schedule-button:active {
+  background-color: black;
+  color: white;
+}
