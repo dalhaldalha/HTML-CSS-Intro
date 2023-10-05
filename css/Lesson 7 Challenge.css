@@ -1,0 +1,74 @@
+.email-text {
+  font-family: arial;
+  color: grey;
+}
+
+.enter-input {
+  border-radius: 3px;
+}
+
+.privacypolicy-text {
+  font-family: Arial;
+  color: grey;
+}
+
+.agree-button {
+  font-family: arial;
+  background-color: rgb(106, 106, 249);
+  color: white;
+  border: none;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 150px;
+  padding-right: 150px;
+  border-radius: 25px;
+  transition: background-color 0.5s, opacity 0.5s;
+}
+
+.agree-button:hover {
+  background-color: rgb(27, 27, 237);
+}
+
+.agree-button:active {
+  opacity: 0.5;
+}
+
+.catimage {
+  vertical-align: middle;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 30px;
+  width: 30px;
+  height: 30px;
+}
+
+.what-input {
+  font-family: arial;
+  vertical-align: middle;
+  border: none;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+.tweet-button {
+  font-family: Arial;
+  font-weight: bold;
+  vertical-align: middle;
+  background-color: rgb(106, 106, 249);
+  color: white;
+  border: none;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 20px;
+  transition: background-color 0.5s, opacity 0.5s;
+}
+
+.tweet-button:hover {
+  background-color: rgb(27, 27, 237);
+}
+
+.tweet-button:active {
+  opacity: 0.5;
+}
