@@ -1,0 +1,57 @@
+.div3,
+.div2,
+.div1 {
+  display: inline-block;
+  height: 240px;
+  width: 150px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.264);
+  margin-right: 15px;
+}
+
+.cat1-image {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  object-position: center;
+}
+
+p {
+  font-family: Arial;
+}
+
+.Joe-text {
+  font-weight: bold;
+  margin-top: 6px;
+  margin-bottom: 0px;
+  margin-left: 8px;
+}
+
+.mutual-text {
+  color: grey;
+  margin-top: 4px;
+  margin-bottom: 0px;
+  margin-left: 8px;
+  font-size: 12px;
+}
+
+.addfriend-button {
+  background-color: rgb(100, 100, 248);
+  color: white;
+  margin-left: 8px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: none;
+  border-radius: 4px;
+  margin-top: 10px;
+  transition: background-color 0.5s, opacity 0.5s;
+}
+
+.addfriend-button:hover {
+  background-color: rgb(49, 49, 250);
+}
+
+.addfriend-button:active {
+  opacity: 0.5;
+}
