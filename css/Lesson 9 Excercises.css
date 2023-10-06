@@ -1,0 +1,49 @@
+.red-div {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+}
+
+.green-div {
+  background-color: green;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+}
+
+.div1 {
+  display: inline-block;
+  height: 80px;
+  width: 300px;
+  border-color: rgb(167, 167, 167);
+  border-style: solid;
+  padding-left: 10px;
+  border-width: 1px;
+}
+
+.satisfied-text {
+  font-family: arial;
+}
+
+.div2 {
+  display: inline-block;
+  height: 90px;
+  width: 300px;
+  background-color: black;
+  padding-left: 10px;
+}
+
+.install-text {
+  font-family: arial;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.add-text {
+  color: rgb(208, 208, 208);
+  font-family: arial;
+  font-size: 13px;
+  margin-top: 0px;
+}
