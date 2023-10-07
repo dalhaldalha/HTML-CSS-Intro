@@ -55,3 +55,75 @@ p {
 .addfriend-button:active {
   opacity: 0.5;
 }
+
+.div4 {
+  height: 200px;
+  width: 400px;
+  box-shadow:0px 0px 6px;
+  padding-top: 40px;
+  padding-left: 80px;
+}
+
+.google-image {
+  width: 150px;
+  margin-left: 70px;
+  display: block;
+  margin-bottom: 6px;
+}
+
+.searchgoogle {
+  display: block;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 8px;
+  width: 300px;
+  border: none;
+  border-radius: 30px;
+  box-shadow:1px 1px 6px rgba(1, 1, 0, 0.15);
+}
+
+.search-button {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+  background-color: rgb(223, 223, 223);
+  border: none;
+  color: black;
+  font-size: 10px;
+  font-weight: 500;
+  margin-top: 20px;
+  margin-left: 50px;
+  transition: background-color 0.5s;
+}
+
+.search-button:hover {
+  background-color: rgb(195, 195, 195);
+}
+
+.search-button:active {
+  background-color: rgb(162, 162, 162);
+}
+
+.lucky-button {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+  background-color: rgb(223, 223, 223);
+  border: none;
+  color: black;
+  font-size: 10px;
+  font-weight: 500;
+  margin-top: 20px;
+  margin-left: 5px;
+  transition: 0.5s;
+}
+
+.lucky-button:hover {
+  background-color: rgb(195, 195, 195);
+}
+
+.lucky-button:active {
+  background-color: rgb(162, 162, 162);
+}
