@@ -1,0 +1,165 @@
+.div1 {
+  display: inline-block;
+  border-width: 1px;
+  vertical-align: top;
+  width: 100px;
+  height: 100px;
+}
+
+.cat1 {
+  object-fit: cover;
+  object-position: center;
+  width: 70px;
+  height: 70px;
+  display: block;
+  border-radius: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  
+}
+
+.div2 {
+  display: inline-block;
+  border-width: 1px;
+  height: 100px;
+  width: 200px;
+  vertical-align: top;
+}
+
+p {
+  font-family: Arial;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.div2-1 {
+  display: inline-block;
+  border-width: 1px;
+  height: 30px;
+  width: 200px;
+}
+
+.oliver-text {
+  font-weight: bold;
+}
+
+.div2-2 {
+  display: inline-block;
+  border-width: 1px;
+  height: 30px;
+  width: 200px;
+}
+
+.thecat-text {
+  color: rgb(180, 180, 180);
+}
+
+.div2-3 {
+  display: inline-block;
+  border-width: 1px;
+  height: 30px;
+  width: 200px;
+}
+
+.popular-text {
+  color: rgb(180, 180, 180);
+}
+
+.div3 {
+  display: inline-block;
+  border-width: 1px;
+  height: 100px;
+  width: 100px;
+}
+
+.follow-button {
+  display: block;
+  background-color: rgb(78, 133, 252);
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  border: none;
+  border-radius: 6px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  transition: background-color 0.5s, opacity  0.5s;
+}
+
+.follow-button:hover {
+  background-color: rgb(29, 100, 255);
+}
+
+.follow-button:active {
+  opacity: 0.5;
+}
+
+.div4 {
+  vertical-align: top;
+  display: inline-block;
+  margin-right: 10px;
+  height: 140px;
+  width: 250px;
+}
+
+.thumbnail1 {
+  display: block;
+  width: 250px;
+}
+
+.div5 {
+  vertical-align: top;
+  display: inline-block;
+  height: 140px;
+  width: 300px;
+}
+
+.div5-1 {
+  display: inline-block;
+  height: 60px;
+  width: 300px;
+}
+
+.video-title {
+  font-weight: bold;
+  font-size: 19px;
+  margin-top: 0px;
+}
+
+.div5-2 {
+  display: inline-block;
+  height: 35px;
+  width: 300px;
+}
+
+.video-channel {
+  color: rgb(119, 119, 119);
+  font-size: small;
+  margin-top: 12px;
+  margin-bottom: 0px;
+}
+
+.div5-3 {
+  display: inline-block;
+  height: 35px;
+  width: 300px;
+}
+
+.video-stats {
+  color: rgb(119, 119, 119);
+  font-size: small;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.video3-div,
+.video2-div,
+.video1-div {
+  display: block;
+  margin-bottom: 15px;
+}
