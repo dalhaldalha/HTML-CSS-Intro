@@ -1,0 +1,148 @@
+p {
+  font-family: arial;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.div1 {
+  display: flex;
+  flex-direction: column;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  border-color: grey;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  max-width: 300px;
+} 
+
+.div1-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 10px;
+  
+}
+
+.home-text {
+  font-size: large;
+}
+
+.fourteen-button {
+  background-color: rgb(36, 118, 249);
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 13px;
+  padding-right: 13px;
+}
+
+.div1-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 10px;
+}
+
+.notifications-text {
+  font-size: large;
+}
+
+.three-button {
+  background-color: rgb(36, 118, 249);
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.div1-3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.messages-text {
+  font-size: large;
+}
+
+.five-button {
+  background-color: rgb(36, 118, 249);
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.div2 {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid grey;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 800px;
+  padding: 10px;
+  background-color: rgb(120, 19, 215);
+}
+
+.div2-1 {
+  display: flex;
+  width: 50px;
+  align-items: center;
+  margin-right: 15px;
+  
+}
+.home1-text {
+  font-size: large;
+  color: white;
+  
+}
+
+.div2-2 {
+  display: flex;
+  flex: 1;
+  align-items: center;
+}
+.search-input {
+  display: flex;
+  flex: 1px;
+  max-width: 500px;
+  padding-left: 15px;
+  height: 27px;
+  border: none;
+  border-radius: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.div2-3 {
+  display: flex;
+  width: 105px;
+  align-items: center;
+  margin-left: 15px;
+}
+
+.download-button {
+  background-color: rgb(120, 19, 215);
+  border-color: white;
+  border-style: solid;
+  color: white;
+  border-width: 1px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  align-items: end;
+}
