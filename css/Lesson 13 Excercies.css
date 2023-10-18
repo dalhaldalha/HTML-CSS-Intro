@@ -1,0 +1,46 @@
+.div1 {
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+}
+
+.div1-1 {
+  display: flex;
+  background-color: lightpink;
+  width: 100px;
+  align-items: center;
+  justify-content: center;
+}
+
+.div1-2 {
+  background-color: lightblue;
+  width: 200px;
+}
+
+.div2 {
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+}
+
+.div2-1 {
+  background-color: lightpink;
+  width: 100px;
+}
+
+.div2-2 {
+  display: flex;
+  flex-direction: column;
+  background-color: lightblue;
+  width: 200px;
+}
+
+.div2-1-1 {
+
+}
+
+.div2-2-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
