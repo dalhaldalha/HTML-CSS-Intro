@@ -1,0 +1,48 @@
+body {
+  padding-bottom: 3000px;
+}
+
+p {
+  margin: 0px;
+}
+
+.div1 {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgb(26, 26, 28);
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+}
+
+.div2 {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  left: 100px;
+  top: 0px;
+  bottom: 0px;
+  width: 100px;
+}
+
+.catimage1,
+.catimage2,
+.catimage3 {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+  margin-bottom: 10px;
+}
+
+.info {
+  display: flex;
+}
+.plus {
+  display: flex;
+}
