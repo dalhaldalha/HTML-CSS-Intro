@@ -1,0 +1,66 @@
+p {
+  font-family: Arial;
+  margin: 0px;
+}
+
+body {
+  padding-bottom: 2000px;
+  background-color: black;
+}
+
+.div1 {
+  display: flex;
+  background-color: rgb(255, 255, 255);
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.div1-1,
+.div1-2 {
+  display: flex;
+  align-items: center;
+
+}
+
+.catimage {
+  object-fit: cover;
+  object-position: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.jinx-text {
+  font-weight: bold;
+}
+
+.addfriend-button,
+.message-button {
+  border: none;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-weight: bold;
+}
+
+.addfriend-button {
+  background-color: rgb(54, 110, 253);
+  color: white;
+  margin-right: 8px;
+  
+}
+
+.message-button {
+  background-color: rgba(207, 207, 207, 0.895);
+}
